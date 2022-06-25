@@ -1,0 +1,12 @@
+@media screen and (max-width: 600px) {
+    .center{
+        padding-left: 2.5rem;;
+    }
+}
+
+.none{
+    display: none;
+}
+.block{
+    display:block;
+}
